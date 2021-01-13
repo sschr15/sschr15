@@ -1,3 +1,7 @@
+[fabric api docs but :concern:](https://fabricmc.docs.concern.i.ng/)
+
+[concen maven](https://maven.concern.i.ng/)
+
 [![:concern:](https://cdn.discordapp.com/emojis/707016186281590855.png?v=1)](http://concern.i.ng)
 
 <!--
